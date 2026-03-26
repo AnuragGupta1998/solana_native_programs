@@ -1,0 +1,12 @@
+[package]
+name = "class_contract"
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+
+[dependencies]
+borsh = "1.6.1"
+borsh-derive = "1.6.1"
+solana-program = "1.18.26"

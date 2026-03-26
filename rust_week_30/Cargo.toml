@@ -1,0 +1,10 @@
+[package]
+name = "rust_week_30"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+# serde = "1.0.228"
+serde = {version = "1.0.228", features = ["derive"]  } 
+# serde = {version = "1.0.228", features = ["serialize","derive"]}
+serde_json = "1.0.149"

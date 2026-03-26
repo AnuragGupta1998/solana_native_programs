@@ -1,0 +1,8 @@
+[package]
+name = "rust_borsh_week_30"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+borsh = { version = "1.6.0", features = ["derive"] }
+
