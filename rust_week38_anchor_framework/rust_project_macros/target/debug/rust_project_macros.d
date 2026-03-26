@@ -1,0 +1,1 @@
+/Users/anuraggupta/COHORT_3/rust_solana/rust_week38_anchor_framework/rust_project_macros/target/debug/rust_project_macros: /Users/anuraggupta/COHORT_3/rust_solana/rust_week38_anchor_framework/rust_project_macros/src/main.rs
